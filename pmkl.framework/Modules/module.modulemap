@@ -1,0 +1,6 @@
+framework module pmkl {
+  umbrella header "pmkl.h"
+
+  export *
+  module * { export * }
+}
